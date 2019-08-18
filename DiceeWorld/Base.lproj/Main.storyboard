@@ -32,7 +32,7 @@
                         <viewLayoutGuide key="safeArea" id="fQZ-KI-GVf"/>
                     </view>
                     <navigationItem key="navigationItem" title="ARDicee" id="x5v-sp-CO2">
-                        <barButtonItem key="leftBarButtonItem" title="Item" id="cSh-VM-i9x">
+                        <barButtonItem key="leftBarButtonItem" systemItem="trash" id="cSh-VM-i9x">
                             <connections>
                                 <action selector="removeAllDice:" destination="BV1-FR-VrT" id="RdV-hG-NsQ"/>
                             </connections>
